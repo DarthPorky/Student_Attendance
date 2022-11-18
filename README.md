@@ -23,5 +23,5 @@ STUDENT
 INSTALLATION
 
 To install and run this web app make sure to have WAMP or XAMP installed on your machine and then copy
-the contents of the download folder into your htdocs or www folder. Import the sql file into your database
+the contents of the downloaded folder into your htdocs or www folder. Import the sql file into your database
 server. Launch the web server and have fun.
